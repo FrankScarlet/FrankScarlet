@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+> 第一次使用这个功能，很酷啊
+
+- 🔭 I’m currently working on ...Java
+
+  等我写完Java-Rookie里的Stuts2和SpringBoot的Demo，我就换锐龙5800H的笔记本（！希望不要成为Flag）
+
+- 🌱 I’m currently learning ...Java and Japanese
+
+  其实，我本来是写Python居多的，Java是临时学的。希望我的日语也能跟我的Java一样学的比较快
+
+- 🤔 I’m looking for help with ...
+  
+  平台！等我掌握了手里的这些技巧，我的下一步在哪里？我要去哪儿发挥我新学习的东西？
+
+- 😄 Pronouns: frank
+
+  这个是代称的意思吗？我一般的游戏id就是`franks`，主体其实是`frank`
+
+
 <!--
 **FrankScarlet/FrankScarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
